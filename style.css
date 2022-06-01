@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #C2DED1;
+}
+h1{
+    border: 1px black solid;
+    padding: 10px;
+    background-color: #354259;
+    border-radius: 10px;
+    color: #ECE5C7;
+}
